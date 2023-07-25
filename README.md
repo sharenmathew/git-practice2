@@ -8,7 +8,7 @@
 
 ## learning conflicts
 ### learned cloning
-## commit changes
+## add files correctly
 
 
 ## commit changes
